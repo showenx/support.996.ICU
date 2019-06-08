@@ -362,6 +362,7 @@ Supported by / 支持者:
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
 * Seth Lin(XiuFeng Lin), Software Engineer, Fabric Group
 * Shan Zhou, Software Engineer, Microsoft
+* Shawn Xiong, Senior Digital Consultant, Sydney
 * Shangsharon(姜尚伟), Software Engineer
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Shaohua Huang, Software Engineer,Alibaba
